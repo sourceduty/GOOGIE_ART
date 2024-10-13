@@ -17,6 +17,9 @@ This GPT takes user inputs on specific elements, color schemes, and moods, and u
 ![Googie Art](https://github.com/user-attachments/assets/6f07c9c7-64f3-4632-acac-1e56961e5469)
 #
 ![Googie Vehicles](https://github.com/user-attachments/assets/4e40f12a-d022-4bd3-a8c1-08497528a1ba)
+#
+![Rusty Googie Cottage](https://github.com/user-attachments/assets/cbbe4cea-a9c9-4b9a-bd06-75da71b3ad3f)
+
 
 #
 ### Related Links
