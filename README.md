@@ -37,6 +37,8 @@ This GPT takes user inputs on specific elements, color schemes, and moods, and u
 [Makeshift Art](https://github.com/sourceduty/Makeshift_DALL-E_3)
 <br>
 [House Design](https://github.com/sourceduty/house_design)
+<br>
+[Art Robotics](https://github.com/sourceduty/Art_Robotics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
